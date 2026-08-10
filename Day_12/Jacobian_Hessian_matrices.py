@@ -76,7 +76,7 @@ torch.manual_seed(42)
 #Step1 : Defining a speech acoustic  mapping model
 class SpeechLayer(nn.Module):
     def __init__(self, input_dim, output_dim):
-        super(SpeechLayer, self).__init__()
+        super().__init__()
         self.linear = nn.Linear(input_dim, output_dim)
         self.activation = nn.Sigmoid()
     def forward(self, x):
