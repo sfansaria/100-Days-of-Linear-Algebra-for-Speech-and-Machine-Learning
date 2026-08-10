@@ -1,6 +1,6 @@
 # 100 Days of Linear Algebra for Speech and Machine Learning 🎙️📐
 
-*Linear algebra, explained and coded — through the lens of speech.*
+*Linear algebra,  explained and coded — through the lens of speech.*
 
 ---
 
@@ -8,7 +8,7 @@
 
 Most linear algebra tutorials teach vectors and matrices with arrows on a whiteboard or rows of abstract numbers. That's fine, but it never quite answers the question I kept asking myself: **what does any of this have to do with the models I actually work on?**
 
-I work on Automatic Speech Recognition and speaker diarization — systems that take a raw waveform and turn it into words, or figure out *who* said *what* in a conversation. Underneath almost every part of that pipeline — feature extraction, embeddings, attention, similarity scoring — is linear algebra doing the heavy lifting. So instead of learning the math in isolation and hoping it "clicks" later when I hit a paper or a model architecture, I decided to learn it the other way around: pick up a concept, then immediately ask *where does this show up in speech?* and code it from scratch to find out.
+I work on Automatic Speech Recognition and speaker diarization systems that take a raw waveform and turn it into words, or figure out *who* said *what* in a conversation. Underneath almost every part of that pipeline — feature extraction, embeddings, attention, similarity scoring — is linear algebra doing the heavy lifting. So instead of learning the math in isolation and hoping it "clicks" later when I hit a paper or a model architecture, I decided to learn it the other way around: pick up a concept, then immediately ask *where does this show up in speech?* and code it from scratch to find out.
 
 This repo is that experiment, one day at a time. It's part study log, part course notes, part hands-on lab — built in public, mistakes and all.
 
