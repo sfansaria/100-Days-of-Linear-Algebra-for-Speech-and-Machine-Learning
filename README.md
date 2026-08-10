@@ -36,7 +36,9 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 | 8   | Eigen Vector and Eigen Values | How important audio features are extracted from a multidimensional dataset using PCA and covariance matrix |
 | 9   | Partial Derivatives and Gradient | How model total error changes with a tweak in one specific weight and collecting all these individual partial derivatives into a single vector gives the gradient |
 | 10   | Tensor                          | Representing batch_size, audio frames and feature vectors (A 3D block of numbers with different audio spectrograms packed ether to train a model simultaneously |
-| 11   | Chain Rule                  |  In deep learning neural networks would be completely blind, they could calculate mistakes at the output layer but they would have no mathematical way to pass that knowledge back to update the lower tensor features without Chain Rule. |
+| 11   | Chain Rule                  |  In deep learning neural networks would be completely blind, they could calculate mistakes at the output layer but they would have no mathematical way to pass that knowledge back to update the lower tensor features without Chain Rule |
+| 12   | Jacobian and Hessian Matrices                  |  Crucial for handling the non-linear, distorted paths of the human speech |
+| 13   | Optimization of the Algorithms                  | Set of rules to navigate the loss landscape |
 
 ## Who this is for
 
