@@ -39,6 +39,7 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 | 11   | Chain Rule                  |  In deep learning neural networks would be completely blind, they could calculate mistakes at the output layer but they would have no mathematical way to pass that knowledge back to update the lower tensor features without Chain Rule |
 | 12   | Jacobian and Hessian Matrices                  |  Crucial for handling the non-linear, distorted paths of the human speech |
 | 13   | Optimization of the Algorithms                  | Set of rules to navigate the loss landscape |
+| 14   | Deepening Optimization with AdamW           | Mathematical decoupling that allows deep Transformers to remain structurally stable over long training runs |
 
 ## Who this is for
 
