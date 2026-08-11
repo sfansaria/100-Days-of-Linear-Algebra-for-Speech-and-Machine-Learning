@@ -114,7 +114,7 @@ target_phoneme = torch.tensor([0.0, 0.0, 1.0, 0.0, 0.0])
 loss_fn = nn.MSELoss()
 
 # The Hessian maps how the gradient of the loss changes with respect to the model weights
-# ,extract the weight parameter tensor from our model layer
+# ,extract the weight parameter tensor from the model layer
 weight_tensor = model.linear.weight # Dimensions: [5, 13] (65 total parameters)
 
 def loss_wrapped_for_weights(w_param):
