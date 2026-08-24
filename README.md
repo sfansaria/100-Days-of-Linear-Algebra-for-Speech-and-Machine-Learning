@@ -41,7 +41,14 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 | 13   | Optimization of the Algorithms                  | Set of rules to navigate the loss landscape |
 | 14   | Deepening Optimization with AdamW           | Mathematical decoupling that allows deep Transformers to remain structurally stable over long training runs |
 | 15   | K-FAC (Kronecker-Factored Approximate Curvature)                  | the optimizer aware of the structural terrain of language |
-
+| 16   | Sharp Aware Minimization         |  |
+| 17   | MiniMax Adversarial Otimization         |  |
+| 18   | PCGrad          |  |
+| 19  |  PCGrade Code        |  |
+| 20  |  Maximum Likelihood Estimation       |  |
+| 21  |  Sequential Maximum Likelihood Estimation       |  |
+| 2  |          |  |
+| 2  |          |  |
 ## Who this is for
 
 - Anyone learning ML who wants the math to feel *motivated* rather than memorized.
