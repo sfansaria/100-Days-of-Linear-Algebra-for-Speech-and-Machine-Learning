@@ -12,7 +12,7 @@ import torch.optim as optim
 # Set random seed for tracking consistency
 torch.manual_seed(42)
 
-# --- STEP 1: Setup Dimensions for the Sequence Grid ---
+# --- STEP 1 Setup Dimensions for the Sequence Grid ---
 num_time_frames = 100       # 1 second of audio cut into 100 slices (time steps)
 num_mel_features = 80       # 80 Mel-filterbank frequency channels per frame
 num_phoneme_classes = 4     # Simple dictionary: [0: /blank/, 1: /k/, 2: /æ/, 3: /t/]
