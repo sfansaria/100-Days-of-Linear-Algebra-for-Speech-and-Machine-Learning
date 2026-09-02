@@ -47,7 +47,10 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 | 19  |  PCGrade Code        |  |
 | 20  |  Maximum Likelihood Estimation       |  |
 | 21  |  Sequential Maximum Likelihood Estimation       |  |
-| 2  |          |  |
+| 22  | Sequential Probability Matrix         |  |
+| 23  | CTC Loss         |  |
+| 24  | RNN-Transducer         |  |
+| 25  | Information Theory         | Entropy, Cross-Entropy, KL-Divergence |
 | 2  |          |  |
 ## Who this is for
 
