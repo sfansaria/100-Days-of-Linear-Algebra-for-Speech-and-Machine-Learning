@@ -51,6 +51,7 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 | 23  | CTC Loss         |  |
 | 24  | RNN-Transducer         |  |
 | 25  | Information Theory         | Entropy, Cross-Entropy, KL-Divergence |
+| 26  | Sequence Metric Evaluation (Word Error Rate)       | The benchmarking tool |
 | 2  |          |  |
 ## Who this is for
 
