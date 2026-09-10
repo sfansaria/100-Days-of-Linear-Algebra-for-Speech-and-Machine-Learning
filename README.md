@@ -59,7 +59,11 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 | 27  | Singular Value Decomposition (SVD)         | Factorization |
 | 28  | Principal Component Analysis (PCA)         |  |
 | 29  | Low-Rank Adaptation (LoRA)         |  |
-| 30  |          |  |
+|E. Advanced Sequential Modeling & Transformers |
+| 30  |   Multi-head Self-Attention Layer from scratch       |  |
+| 31  |          |  |
+| 32  |          |  |
+
 ## Who this is for
 
 - Anyone learning ML who wants the math to feel *motivated* rather than memorized.
