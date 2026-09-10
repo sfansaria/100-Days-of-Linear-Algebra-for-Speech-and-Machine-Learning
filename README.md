@@ -26,6 +26,7 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 
 | Day | Topic                    | Speech/ML Angle |
 |-----|--------------------------|------------------|
+|A. Linear Algebra                                  |
 | 1   | Vectors                  | Representing audio frames and feature vectors |
 | 2   | Vector Multiplication (Dot Product) | Measuring similarity between speaker embeddings |
 | 3   | Cross Product | Building geometric intuition before moving into higher-dimensional spaces |
@@ -36,6 +37,7 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 | 8   | Eigen Vector and Eigen Values | How important audio features are extracted from a multidimensional dataset using PCA and covariance matrix |
 | 9   | Partial Derivatives and Gradient | How model total error changes with a tweak in one specific weight and collecting all these individual partial derivatives into a single vector gives the gradient |
 | 10   | Tensor                          | Representing batch_size, audio frames and feature vectors (A 3D block of numbers with different audio spectrograms packed ether to train a model simultaneously |
+|B. Matrix Calculus and. Advanced Optimization      |
 | 11   | Chain Rule                  |  In deep learning neural networks would be completely blind, they could calculate mistakes at the output layer but they would have no mathematical way to pass that knowledge back to update the lower tensor features without Chain Rule |
 | 12   | Jacobian and Hessian Matrices                  |  Crucial for handling the non-linear, distorted paths of the human speech |
 | 13   | Optimization of the Algorithms                  | Set of rules to navigate the loss landscape |
@@ -45,6 +47,7 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 | 17   | MiniMax Adversarial Otimization         |  |
 | 18   | PCGrad          |  |
 | 19  |  PCGrade Code        |  |
+|C. Sequential Probability & Distribution Information Theory |
 | 20  |  Maximum Likelihood Estimation       |  |
 | 21  |  Sequential Maximum Likelihood Estimation       |  |
 | 22  | Sequential Probability Matrix         |  |
@@ -52,6 +55,7 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 | 24  | RNN-Transducer         |  |
 | 25  | Information Theory         | Entropy, Cross-Entropy, KL-Divergence |
 | 26  | Sequence Metric Evaluation (Word Error Rate)       | The benchmarking tool |
+|D. Advanced Linear Algebra & Model Compression |
 | 27  | Singular Value Decomposition (SVD)         | Factorization |
 | 28  | Principal Component Analysis (PCA)         |  |
 | 29  | Low-Rank Adaptation (LoRA)         |  |
