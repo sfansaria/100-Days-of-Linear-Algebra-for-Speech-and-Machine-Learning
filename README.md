@@ -61,8 +61,9 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 | 29  | Low-Rank Adaptation (LoRA)         |  |
 |E. Advanced Sequential Modeling & Transformers |
 | 30  |   Multi-head Self-Attention Layer from scratch       |  |
-| 31  |          |  |
-| 32  |          |  |
+| 31  |   Trigonometric Positional Encodings       |  |
+| 32  |   Convolutional Subsampling      |  |
+| 33  |          |  |
 
 ## Who this is for
 
