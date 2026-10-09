@@ -113,8 +113,6 @@ rvq_pipeline = ResidualVectorQuantizer(num_stages=3, num_embeddings=512, embeddi
 quantized_out, discrete_token_grid, stage_errors = rvq_pipeline(continuous_voice_features)
 
 
-
-
 print("="*75)
 print(" RESIDUAL VECTOR QUANTIZATION (RVQ)")
 print("="*75)
