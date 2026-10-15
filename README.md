@@ -44,7 +44,7 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 | 14   | Deepening Optimization with AdamW           | Mathematical decoupling that allows deep Transformers to remain structurally stable over long training runs |
 | 15   | K-FAC (Kronecker-Factored Approximate Curvature)                  | the optimizer aware of the structural terrain of language |
 | 16   | Sharp Aware Minimization         |  |
-| 17   | MiniMax Adversarial Otimization         |  |
+| 17   | MiniMax Adversarial Optimization         |  |
 | 18   | PCGrad          |  |
 | 19  |  PCGrade Code        |  |
 |C. Sequential Probability & Distribution Information Theory |
