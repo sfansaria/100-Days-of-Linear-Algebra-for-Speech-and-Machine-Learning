@@ -63,10 +63,13 @@ No day is meant to be a polished textbook chapter. It's meant to be honest: what
 | 30  |   Multi-head Self-Attention Layer from scratch       |  |
 | 31  |   Trigonometric Positional Encodings       |  |
 | 32  |   Convolutional Subsampling      |  |
+|F. Generative AI Foundations |
 | 33  |   Vector Quantization      |  |
 | 34  |   Residual Vector Quantization      |  |
 | 35  |   Continuous Flow Matching       |  |
+|G. Advanced Information Geometry |
 | 36  |   Fisher Information Matrix       |  |
+|H. Large Scale System Efficiency and Scaling Laws |
 | 37  |   Auto-Regressive KV Cache Engine      |  |
 | 38  |   Model Quantization Model       |  |
 | 39  |          |  |
